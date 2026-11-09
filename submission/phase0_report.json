@@ -1,0 +1,24 @@
+{
+  "phase": "0",
+  "environment": {
+    "cloud_shell": true
+  },
+  "python": {
+    "version": "3.12.3",
+    "ok": true
+  },
+  "gcloud": {
+    "account": "rodrigo.de-la-nuez@eurecom.fr",
+    "project": "eurecomgpt-clouds",
+    "error": null
+  },
+  "docker": {
+    "version": "Docker version 29.9.3, build 5457199",
+    "present": true
+  },
+  "git": {
+    "remote": "https://github.com/rodrigo-delanuez/clouds-lab-eurecom.git",
+    "is_github": true,
+    "slug": "rodrigo-delanuez/clouds-lab-eurecom"
+  }
+}
